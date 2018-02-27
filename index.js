@@ -5,6 +5,8 @@ function happyHolidays () {
   return"Happy Holidays!"
 }
 
-function happyHolidaysTo () {
-  
+function happyHolidaysTo (holiday, name) {
+  name = ('max')
+  holiday = ('christmas')
+  return""
 }
