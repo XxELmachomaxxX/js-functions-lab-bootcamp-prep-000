@@ -13,4 +13,5 @@ function happyHolidaysTo (name) {
 function HappyHolidayTo (holiday, name) {
   name = ('max')
   holiday = ('christmas')
+  return``
 }
