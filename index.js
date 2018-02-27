@@ -5,10 +5,9 @@ function happyHolidays () {
   return`Happy Holidays!`
 }
 
-function happyHolidaysTo (holiday, name) {
+function happyHolidaysTo (name) {
   name = ('max')
-  holiday = ('christmas')
-  return`Happy ${holiday}, ${name}!`
+  return`Happy holidays, ${name}!`
 }
 
 function HappyHolidayTo () {
