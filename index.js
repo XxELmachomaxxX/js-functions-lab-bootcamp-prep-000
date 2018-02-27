@@ -17,7 +17,8 @@ function HappyHolidayTo (holiday, name) {
 }
 
 function holidayCountdown (holiday, numberOfDays) {
-  holiday = ('')
+  holiday = ('easter')
+  numberOfDays = ('')
 }
 
 
