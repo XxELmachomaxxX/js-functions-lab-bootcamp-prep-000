@@ -10,3 +10,4 @@ function happyHolidayTo (holiday, name) {
   holiday = ('christmas')
   return`Happy ${holiday}, ${name}!`
 }
+
