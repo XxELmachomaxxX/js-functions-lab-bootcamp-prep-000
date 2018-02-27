@@ -2,11 +2,11 @@
 
 
 function happyHolidays () {
-  return"Happy Holidays!"
+  return`Happy Holidays!`
 }
 
 function happyHolidaysTo (holiday, name) {
   name = ('max')
   holiday = ('christmas')
-  return""
+  return`Happy ${holiday}, ${name}!`
 }
